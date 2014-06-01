@@ -1,0 +1,17 @@
+{
+    "name": "lagman/fancybox",
+    "description": "fancyBox offers an elegant way to present images, html content and multimedia for webpages",
+	"homepage": "https://github.com/russianlagman/fancybox",
+    "authors": [
+        {
+            "name": "Alexey Samoylov",
+            "email": "alexey.samoylov@gmail.com"
+        }
+    ],
+	"licenses": [
+        {
+            "type": "fancyBox",
+            "url": "http://fancyapps.com/fancybox/#license"
+        }
+    ]
+}
